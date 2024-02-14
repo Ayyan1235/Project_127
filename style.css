@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(rgb(79, 238, 182), rgb(39, 177, 205));
+}
+
+#score{
+    padding: 20px;
+    margin-left: 0px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+#timer{
+    margin-left: 1150px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+h1{
+    background-color: rgb(221, 201, 176);
+}
+
+#show_sketch{
+    float: right;
+}
+
+.i{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(162, 86, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sketch_to_be_drawn{
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(224, 26, 26);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
